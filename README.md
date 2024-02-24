@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tusharn3115
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning website development
+- 👀 I’m interested in Web Dev Application
 - 📫 How to reach me negitushar81@gmail.com
 
 <!---
