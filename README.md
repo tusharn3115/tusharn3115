@@ -8,8 +8,8 @@
 
 ### :man_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m building my skills in frontend and building web applications.
+- :telescope: I'm currently enhancing my skills in frontend development and creating web applications.
 
-- :zap: In my free time, I love to make some projects.
+- :zap: In my free time, I enjoy working on projects and experimenting with various effects and animations.
 
 - :mailbox:How to reach me: negitushar923@gmail.com
