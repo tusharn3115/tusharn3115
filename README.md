@@ -34,4 +34,4 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-tusharn3115
+<a href="http://www.github.com/tusharn3115"><img src="https://github-readme-streak-stats.herokuapp.com/?user=surajsinghgore&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
