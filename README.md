@@ -15,6 +15,10 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :mailbox:How to reach me: negitushar923@gmail.com
 
 
+<a href="https://github.com/tusharn3115" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/tusharn3115?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
