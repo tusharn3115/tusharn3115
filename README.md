@@ -1,5 +1,5 @@
-### :man_technologist: About Me :
-👋 Welcome to my profile! I'm Tushar Negi, a front-end web developer:
+👋 Welcome to my profile! I'm Tushar Negi, a Front-End Web Developer:
+
 - :telescope: I'm currently enhancing my skills in frontend development and creating web applications.
 
 - :zap: In my free time, I enjoy working on projects and experimenting with various effects and animations.
