@@ -4,7 +4,7 @@
 
 - :zap: In my free time, I enjoy working on projects and experimenting with various effects and animations.
 
-- :mailbox:How to reach me: negitushar923@gmail.com
+- :mailbox: How to reach me: negitushar923@gmail.com
 
 ---
 
