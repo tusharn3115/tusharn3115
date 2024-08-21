@@ -1,6 +1,6 @@
 👋 Welcome to my profile! I'm Tushar Negi, a Front-End Web Developer:
 
-- :telescope: I'm currently enhancing my skills in frontend development and creating web applications.
+- :telescope: I’m currently focused on improving my frontend development skills and building web applications.
 
 - :zap: In my free time, I enjoy working on projects and experimenting with various effects and animations.
 
