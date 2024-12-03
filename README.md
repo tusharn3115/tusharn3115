@@ -34,8 +34,7 @@
 --- 
 
 ### 📊 My GitHub Stats  
-![GitHub forks](https://img.shields.io/github/forks/tusharn3115/my-repository?style=social)
-
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=tusharn3115&bg_color=ffffff&color=2695d4&line=2695d4&point=24292e&area=true)
 - **Current Streak:**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharn3115&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)  
 
