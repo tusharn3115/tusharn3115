@@ -10,33 +10,38 @@
 - 💻 Exploring frameworks like **React**, **Next.js**, and tools like **GSAP**, **Framer Motion**, and **Three.js** to deliver top-notch user experiences.  
 - 📚 Continuously learning and staying updated with the latest trends in **frontend development** and **JavaScript ecosystems**.  
 
----
 
-Here’s an updated version of your **Tech Stack** section with a refreshed set of logos for a unique and modern appearance:  
 
 ---
 
 ### 🛠️ Tech Stack  
 
-- **Languages & Frameworks:**  
-  ![HTML5](https://img.shields.io/badge/HTML-%23F16524.svg?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=csswizardry&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7E018.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+#### **Languages & Frameworks**  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="80" height="80"/>  
+</p>  
 
-- **Animations & 3D Tools:**  
-  ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)  
-  ![Framer Motion](https://img.shields.io/badge/Framer-%23F05A23.svg?style=for-the-badge&logo=framer&logoColor=white)  
-  ![Three.js](https://img.shields.io/badge/Three.js-%231a1a1a.svg?style=for-the-badge&logo=three.js&logoColor=white)  
+#### **Animations & 3D Tools**  
+<p align="left">  
+  <img src="https://greensock.com/_img/gsap-logo.svg" alt="GSAP" width="80" height="80"/>  
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/framer.svg" alt="Framer Motion" width="80" height="80"/>  
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/three.js.svg" alt="Three.js" width="80" height="80"/>  
+</p>  
 
-- **Development Tools:**  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-%232C2C32.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)  
-  ![Git](https://img.shields.io/badge/Git-%23DE4C36.svg?style=for-the-badge&logo=git&logoColor=white)  
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+#### **Development Tools**  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="80" height="80"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="80" height="80"/>  
+  <img src="https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png" alt="NPM" width="80" height="80"/>  
+  <img src="https://raw.githubusercontent.com/tailwindlabs/brand/master/mark/svg/tailwind-mark.svg" alt="Tailwind CSS" width="80" height="80"/>  
+</p>  
 
---- 
+---
+
 
 
 ### 📊 My GitHub Stats  
