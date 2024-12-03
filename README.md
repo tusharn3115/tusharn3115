@@ -14,13 +14,24 @@
 
 ---
 
-🛠️ Tech Stack
-Languages & Frameworks
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/> <img src="https://raw.githubusercontent.com/shinokada/shinokada/main/nextjs/nextjs-icon.svg" alt="Next.js" width="80" height="80"/> </p>
-Animations & 3D Tools
-<p align="center"> <img src="https://greensock.com/_img/gsap-logo.svg" alt="GSAP" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" alt="Framer Motion" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="80" height="80"/> </p>
-Development Tools
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="80" height="80"/> <img src="https://static.npmjs.com/images/npm-logo.svg" alt="NPM" width="80" height="80"/> <img src="https://raw.githubusercontent.com/tailwindlabs/brand/master/mark/svg/tailwind-mark.svg" alt="Tailwind CSS" width="80" height="80"/> </p>
+### 🛠️ Tech Stack  
+- **Languages & Frameworks:**  
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
+
+- **Animations & 3D Tools:**  
+  ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)  
+  ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23835AFD.svg?style=for-the-badge&logo=framer&logoColor=white)  
+  ![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)  
+
+- **Development Tools:**  
+  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
+  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 ---
 
 
