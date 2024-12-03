@@ -12,26 +12,32 @@
 
 ---
 
+Here’s an updated version of your **Tech Stack** section with a refreshed set of logos for a unique and modern appearance:  
+
+---
+
 ### 🛠️ Tech Stack  
+
 - **Languages & Frameworks:**  
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![HTML5](https://img.shields.io/badge/HTML-%23F16524.svg?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=csswizardry&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7E018.svg?style=for-the-badge&logo=javascript&logoColor=black)  
   ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
+  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 
 - **Animations & 3D Tools:**  
   ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)  
-  ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23835AFD.svg?style=for-the-badge&logo=framer&logoColor=white)  
-  ![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)  
+  ![Framer Motion](https://img.shields.io/badge/Framer-%23F05A23.svg?style=for-the-badge&logo=framer&logoColor=white)  
+  ![Three.js](https://img.shields.io/badge/Three.js-%231a1a1a.svg?style=for-the-badge&logo=three.js&logoColor=white)  
 
 - **Development Tools:**  
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
-  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-%232C2C32.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)  
+  ![Git](https://img.shields.io/badge/Git-%23DE4C36.svg?style=for-the-badge&logo=git&logoColor=white)  
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
 --- 
+
 
 ### 📊 My GitHub Stats  
 ![Custom Badge](https://img.shields.io/badge/Code%20with-Love-red)
