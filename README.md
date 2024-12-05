@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm Tushar Negi  
 
 ### 🚀 About Me  
@@ -60,5 +58,3 @@
 
 ✨ Thanks for stopping by! Let’s build something amazing together. 🚀  
 
-
-make this readme more professional and also add visit count 
