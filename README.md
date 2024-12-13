@@ -51,7 +51,7 @@
 
 ### 📫 Get in Touch  
 - 📧 Email: **negitushar923@gmail.com**  
-- 💻 Portfolio: *Coming Soon!*  
+- 💻 Portfolio: (https://three-js-portfolio-iota.vercel.app/)  
 - 💼 LinkedIn: https://www.linkedin.com/in/tushar-negi-786571317/
 
 ---
