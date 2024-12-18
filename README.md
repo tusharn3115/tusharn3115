@@ -1,4 +1,4 @@
-Here's a more concise and professional version of your profile:
+Here's your profile with different icons for the tech stack:
 
 ---
 
@@ -12,10 +12,18 @@ Recent projects include **Clinic Care (Freelance)** and **Framer Animations**. I
 ---
 
 ### 🛠️ Tech Stack  
-- **HTML5, CSS3, JavaScript, TypeScript**  
-- **React, Next.js, Tailwind CSS**  
-- **GSAP, Framer Motion, Git, NPM**  
-- **Visual Studio Code**
+- ![HTML5](https://img.icons8.com/ios/452/html-5.png) **HTML5**  
+- ![CSS3](https://img.icons8.com/ios/452/css3.png) **CSS3**  
+- ![JavaScript](https://img.icons8.com/ios/452/javascript.png) **JavaScript**  
+- ![TypeScript](https://img.icons8.com/ios/452/typescript.png) **TypeScript**  
+- ![React](https://img.icons8.com/ios/452/react.png) **React**  
+- ![Next.js](https://img.icons8.com/ios/452/nextjs.png) **Next.js**  
+- ![GSAP](https://img.icons8.com/ios/452/greensock.png) **GSAP**  
+- ![Framer Motion](https://img.icons8.com/ios/452/framer-motion.png) **Framer Motion**  
+- ![Tailwind CSS](https://img.icons8.com/ios/452/tailwindcss.png) **Tailwind CSS**  
+- ![Git](https://img.icons8.com/ios/452/git.png) **Git**  
+- ![NPM](https://img.icons8.com/ios/452/npm.png) **NPM**  
+- ![VS Code](https://img.icons8.com/ios/452/visual-studio-code-2019.png) **Visual Studio Code**
 
 ---
 
@@ -41,4 +49,4 @@ Recent projects include **Clinic Care (Freelance)** and **Framer Animations**. I
 
 ✨ Let’s connect and create something amazing! 🚀
 
---- 
+---
