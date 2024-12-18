@@ -1,29 +1,29 @@
-Here's your profile with different icons for the tech stack:
+Here's the updated profile with a completely new set of icons for your tech stack:
 
 ---
 
 # 👋 Hi, I'm Tushar Negi  
 
 ### 🚀 About Me  
-I'm a **Front-End Web Developer** with a passion for creating interactive and user-friendly web applications. Currently, I’m refining my skills with frameworks like **React**, **Next.js**, and **TypeScript**. I enjoy working with **GSAP**, **Framer Motion**, and exploring new web technologies to deliver exceptional user experiences.  
+I'm a **Front-End Web Developer** passionate about creating interactive and user-friendly web applications. Currently, I’m refining my skills with frameworks like **React**, **Next.js**, and **TypeScript**. I enjoy working with **GSAP**, **Framer Motion**, and exploring new web technologies to deliver exceptional user experiences.  
 
 Recent projects include **Clinic Care (Freelance)** and **Framer Animations**. I’m always learning and staying updated with trends in **frontend development** and the **JavaScript ecosystem**.
 
 ---
 
 ### 🛠️ Tech Stack  
-- ![HTML5](https://img.icons8.com/ios/452/html-5.png) **HTML5**  
-- ![CSS3](https://img.icons8.com/ios/452/css3.png) **CSS3**  
-- ![JavaScript](https://img.icons8.com/ios/452/javascript.png) **JavaScript**  
-- ![TypeScript](https://img.icons8.com/ios/452/typescript.png) **TypeScript**  
-- ![React](https://img.icons8.com/ios/452/react.png) **React**  
-- ![Next.js](https://img.icons8.com/ios/452/nextjs.png) **Next.js**  
-- ![GSAP](https://img.icons8.com/ios/452/greensock.png) **GSAP**  
-- ![Framer Motion](https://img.icons8.com/ios/452/framer-motion.png) **Framer Motion**  
-- ![Tailwind CSS](https://img.icons8.com/ios/452/tailwindcss.png) **Tailwind CSS**  
-- ![Git](https://img.icons8.com/ios/452/git.png) **Git**  
-- ![NPM](https://img.icons8.com/ios/452/npm.png) **NPM**  
-- ![VS Code](https://img.icons8.com/ios/452/visual-studio-code-2019.png) **Visual Studio Code**
+- ![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg) **HTML5**  
+- ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg) **CSS3**  
+- ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg) **JavaScript**  
+- ![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg) **TypeScript**  
+- ![React](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg) **React**  
+- ![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextdotjs.svg) **Next.js**  
+- ![GSAP](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/greensock.svg) **GSAP**  
+- ![Framer Motion](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/framer.svg) **Framer Motion**  
+- ![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg) **Tailwind CSS**  
+- ![Git](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg) **Git**  
+- ![NPM](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg) **NPM**  
+- ![VS Code](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg) **Visual Studio Code**
 
 ---
 
@@ -42,7 +42,7 @@ Recent projects include **Clinic Care (Freelance)** and **Framer Animations**. I
 
 ### 📧 Get in Touch  
 - 📧 **Email**: negitushar923@gmail.com  
-- 💻 **Portfolio**: [tushar-portfolio](https://three-js-portfolio-iota.vercel.app/)  
+- 💻 **Portfolio**: under construction 🫡
 - 💼 **LinkedIn**: [Tushar Negi](https://www.linkedin.com/in/tushar-negi-786571317/)
 
 ---
