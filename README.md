@@ -10,19 +10,22 @@
 
 ---
 
-### 🛠️ Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23835AFD.svg?style=for-the-badge&logo=framer&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+🛠️ Tech Stack
+Languages & Frameworks
+🛠️ <img src="https://img.icons8.com/ios/50/000000/html-5.png" alt="HTML5" style="width: 24px; height: 24px; margin-right: 8px;" /> HTML5: Semantic and responsive web development
+🎨 <img src="https://img.icons8.com/ios/50/000000/css3.png" alt="CSS3" style="width: 24px; height: 24px; margin-right: 8px;" /> CSS3: Flexbox, Grid, and advanced styling techniques
+🚀 <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript" style="width: 24px; height: 24px; margin-right: 8px;" /> JavaScript: ES6+ syntax and modern features
+🛡️ <img src="https://img.icons8.com/ios/50/000000/typescript.png" alt="TypeScript" style="width: 24px; height: 24px; margin-right: 8px;" /> TypeScript: Type-safe JavaScript for scalable projects
+⚛️ <img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" style="width: 24px; height: 24px; margin-right: 8px;" /> React: Dynamic and reusable UI components
+🌐 <img src="https://img.icons8.com/ios/50/000000/nextjs.png" alt="Next.js" style="width: 24px; height: 24px; margin-right: 8px;" /> Next.js: Server-side rendering and optimized performance
+UI & Animations
+🌀 <img src="https://img.icons8.com/ios/50/000000/tailwindcss.png" alt="TailwindCSS" style="width: 24px; height: 24px; margin-right: 8px;" /> TailwindCSS: Utility-first framework for sleek, responsive designs
+🎥 <img src="https://img.icons8.com/ios/50/000000/gsap.png" alt="GSAP" style="width: 24px; height: 24px; margin-right: 8px;" /> GSAP: Motion graphics and smooth animations
+🖌️ <img src="https://img.icons8.com/ios/50/000000/framer.png" alt="Framer Motion" style="width: 24px; height: 24px; margin-right: 8px;" /> Framer Motion: Declarative animations for React applications
+Version Control & Tools
+🔗 <img src="https://img.icons8.com/ios/50/000000/git.png" alt="Git" style="width: 24px; height: 24px; margin-right: 8px;" /> Git: Version control for seamless collaboration
+📦 <img src="https://img.icons8.com/ios/50/000000/npm.png" alt="NPM" style="width: 24px; height: 24px; margin-right: 8px;" /> NPM: Dependency management and build tools
+✍️ <img src="https://img.icons8.com/ios/50/000000/visual-studio-code-2019.png" alt="VS Code" style="width: 24px; height: 24px; margin-right: 8px;" /> VS Code: Efficient and customizable code editor
 
 ---
 
