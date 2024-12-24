@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **Next.JS and Typescript**
 
-- 👨‍💻 All of my projects are available at [under construction 🫡](under construction 🫡)
-
-- 📝 I regularly write articles on [under construction 🫡](under construction 🫡)
-
 - 📫 How to reach me **negitushar923@gmail.com**
 
-- 📄 My Portfolio 🌿 [https://dev-portfolio-livid-three.vercel.app/](https://dev-portfolio-livid-three.vercel.app/)
+- 📄 My Portfolio 🌿 [https://dev-portfolio-livid-three.vercel.app/](https://v0-portfolio-seven.vercel.app/)
 
 - ⚡ Fun fact **Passionate web developer 👨‍💻 Anime enthusiast, Building dreams with code 🌿**
 
