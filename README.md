@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tushar Negi</h1>
-<h3 align="center">A passionate web developer</h3>
-
-<p align="left"> <a href="https://twitter.com/tushxr05" target="blank"><img src="https://img.shields.io/twitter/follow/tushxr05?logo=twitter&style=for-the-badge" alt="tushxr05" /></a> </p>
-
-- 🌱 I’m currently learning **Next.JS and Typescript**
-
-- 📫 How to reach me **negitushar923@gmail.com**
-
-- 📄 My Portfolio 🌿 [https://dev-portfolio-livid-three.vercel.app/](https://v0-portfolio-seven.vercel.app/)
-
-- ⚡ Fun fact **Passionate web developer 👨‍💻 Anime enthusiast, Building dreams with code 🌿**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
