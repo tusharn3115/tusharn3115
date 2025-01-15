@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/tushxr05" target="blank"><img src="https://img.shields.io/twitter/follow/tushxr05?logo=twitter&style=for-the-badge" alt="tushxr05" /></a> </p>
 
-- 🔭 I’m currently working on **Full-Stack AI SaaS Platform**
-
 - 🌱 I’m currently learning **Next.JS and Typescript**
 
 - 📫 How to reach me **negitushar923@gmail.com**
