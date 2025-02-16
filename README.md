@@ -1,4 +1,4 @@
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=tusharn3115)
 ## 🌐 Socials:
 (https://x.com/tushxr05) 
 
