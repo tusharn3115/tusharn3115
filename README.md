@@ -76,4 +76,3 @@ I’m a full-stack developer, 21 // passionate about tech, always learning and c
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
