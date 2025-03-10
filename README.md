@@ -6,6 +6,4 @@
    ██║   ╚██████╔╝███████║██║  ██║██║  ██║██║  ██║   |  likes: guitar, traveling, music, gaming, football, anime
    ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   |  socials: @tushxr05 on x
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hey!+Welcome+to+My+GitHub+Profile!+👋" alt="Typing SVG" />
-</p>
+ib - voltycodes :)
